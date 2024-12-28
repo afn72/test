@@ -1,5 +1,5 @@
 # test
-test
+test\n
 `cool`
 ```
 very cool
